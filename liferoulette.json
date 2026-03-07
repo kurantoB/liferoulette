@@ -1,0 +1,64 @@
+[
+    {
+        "category": "Collab",
+        "bank": [
+            "Witches Duel",
+            "Dream Force Hartmann",
+            "Enlightenment in Dream Land"
+        ]
+    },
+    {
+        "category": "Gaming",
+        "bank": [
+            "Disco Elysium",
+            "Metaphor: ReFantazio",
+            "Slay the Spire 2",
+            "Undertale",
+            "Hollow Knight: Silksong",
+            "Megaman Battle Network",
+            "Pokemon Violet"
+        ]
+    },
+    {
+        "category": "New Anime",
+        "bank": [
+            "Frieren: Beyond Journey's End",
+            "Fate/Strange Fake",
+            "Gachiakuta"
+        ]
+    },
+    {
+        "category": "Old Anime",
+        "bank": [
+            "Re:Zero",
+            "Mashle: Magic and Muscles",
+            "Baccano!",
+            "Naruto"
+        ]
+    },
+    {
+        "category": "Manga",
+        "bank": [
+            "One Piece",
+            "Jujutsu Kaisen"
+        ]
+    },
+    {
+        "category": "TV Shows",
+        "bank": [
+            "The Boys",
+            "Severance",
+            "House of the Dragon"
+        ]
+    },
+    {
+        "category": "Movies",
+        "bank": [
+            "Lord of the Rings",
+            "Dune",
+            "Fight Club",
+            "John Wick",
+            "The Wild Robot"
+        ]
+    }
+]
