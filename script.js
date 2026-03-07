@@ -30,8 +30,10 @@ function processData(data) {
 		result.push($entryDiv);
 		$entryDiv.append($('<hr>'))
 		$entryDiv.append($('<h2>').text(entry.category));
-		const $bankContents = addFromBank(entry.bank);
-		$entryDiv.append($bankContents);
+        if (entry.bank && entry.bank.length > 0) {
+		    const $bankContents = addFromBank(entry.bank);
+		    $entryDiv.append($bankContents);
+        }
 	}
 	return result;
 }
