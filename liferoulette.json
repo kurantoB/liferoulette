@@ -21,20 +21,23 @@
         ]
     },
     {
-        "category": "New Anime",
+        "category": "New Anime/Manga",
         "bank": [
             "Frieren: Beyond Journey's End",
             "Fate/Strange Fake",
-            "Gachiakuta"
+            "Gachiakuta",
+            "Jujutsu Kaisen"
         ]
     },
     {
-        "category": "Old Anime",
+        "category": "Old Anime/Manga",
         "bank": [
             "Re:Zero",
             "Mashle: Magic and Muscles",
             "Baccano!",
-            "Naruto"
+            "Naruto",
+            "One Piece",
+            "Berzerk"
         ]
     },
     {
@@ -51,7 +54,8 @@
             "Severance",
             "House of the Dragon",
             "Mighty Nein",
-            "Invincible"
+            "Invincible",
+            "Stranger Things"
         ]
     },
     {
